@@ -8,7 +8,7 @@ import numpy as np
 import pickle
 
 # Loading the saved model
-loaded_model = pickle.load(open('C:/Users/Faith/Desktop/PROJECTS/PROJECTS-ML/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Users/Muegi/Desktop/PROJECTS/PROJECTS-ML/trained_model.sav', 'rb'))
 
 # making a predictive model
 input_data = (5,166,80,19,190,26.8,0.486,69)
