@@ -19,4 +19,9 @@ Using anacoda create a virtual environment and install the following packagaes
   ### Diabetes Predictive System
   This project has used streamitlit to create a predictive sytem where the user can enter various variables that determine if a patient has diabetes or not.
   
+  The following files potrays the nature of the system
+  
+  *  [trained_model.sav](https://github.com/MutegiMk/ModelDeployment\trained_model.sav)
+  
+  
   
